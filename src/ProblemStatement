@@ -1,0 +1,10 @@
+Develop a java application to implement area converter (square feet to ground and vice versa), 
+Length converter (inch to mills and vice versa)  using packages.
+Create a package converterlibrary
+         -> Create a class AreaConverter and define methods for squareFeetToGround 
+             and vice versa.
+         -> Create a class LengthConverter and define methods for inchToMills, 
+            and vice versa
+Create a package converterapp
+         -> Create a class Calculation1 use the conversion functions
+            and display the results.
